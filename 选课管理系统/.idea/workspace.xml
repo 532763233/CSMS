@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="选课管理系统:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94453815-92bd-4c11-b297-a8220d2973e5" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="ccmsdb: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Interface" />
+        <option value="jsf" />
+        <option value="JavaScript File" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1dRviqbQVceNfhKn0bxczT33IAH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\槐序十四\Desktop\选课管理系统\web" />
+      <recent name="C:\Users\槐序十四\Desktop\选课管理系统\web\js" />
+      <recent name="C:\Users\槐序十四\Desktop\选课管理系统\web\imgs" />
+      <recent name="C:\Users\槐序十四\Desktop\选课管理系统\web\WEB-INF\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="servlet" />
+      <recent name="util" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Impl" />
+      <recent name="dao" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.31" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="选课管理系统:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_31_选课管理系统" />
+      </server-settings>
+      <output_file path="$PROJECT_DIR$/../hh" is_save="true" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="javadebug" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="选课管理系统:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94453815-92bd-4c11-b297-a8220d2973e5" name="默认更改列表" comment="" />
+      <created>1592400849942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592400849942</updated>
+      <workItem from="1592400855061" duration="12952000" />
+      <workItem from="1592467526987" duration="1181000" />
+      <workItem from="1592468971797" duration="25848000" />
+      <workItem from="1592545687489" duration="38469000" />
+      <workItem from="1592585549592" duration="12642000" />
+      <workItem from="1592708661439" duration="33476000" />
+      <workItem from="1592767313913" duration="136476000" />
+      <workItem from="1593141257481" duration="47822000" />
+      <workItem from="1593252291042" duration="17823000" />
+      <workItem from="1593321037393" duration="5191000" />
+      <workItem from="1593409348329" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="277" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593325164815">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="457" y="277" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1593325164815" />
+    <state x="830" y="316" key="#com.intellij.ide.util.MemberChooser" timestamp="1593017107531">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="830" y="316" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1280@0.0.2048.1280" timestamp="1593017107531" />
+    <state x="243" y="416" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1592489989243">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="243" y="416" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1592489989243" />
+    <state x="854" y="510" width="339" height="260" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593326884224">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="854" y="510" width="339" height="260" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2048.1280@0.0.2048.1280" timestamp="1593326884224" />
+    <state x="238" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1592552901406">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="238" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1592552901406" />
+    <state x="755" y="387" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592759511347">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="755" y="387" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1592759511347" />
+    <state x="755" y="387" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1592571010660">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="755" y="387" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1592571010660" />
+    <state x="617" y="299" key="#模板数据语言" timestamp="1592657350601">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="617" y="299" key="#模板数据语言/0.0.2048.1280@0.0.2048.1280" timestamp="1592657350601" />
+    <state x="779" y="493" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592763434836">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="779" y="493" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2048.1280@0.0.2048.1280" timestamp="1592763434836" />
+    <state width="252" height="195" key="DatabaseViewActions_Filter" timestamp="1592459875441">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="252" height="195" key="DatabaseViewActions_Filter/0.0.2048.1280@0.0.2048.1280" timestamp="1592459875441" />
+    <state x="93" y="93" width="1862" height="1094" key="DiffContextDialog" timestamp="1592467907408">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="93" y="93" width="1862" height="1094" key="DiffContextDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1592467907408" />
+    <state x="1160" y="381" key="FileChooserDialogImpl" timestamp="1592468207928">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="1160" y="381" key="FileChooserDialogImpl/0.0.2048.1280@0.0.2048.1280" timestamp="1592468207928" />
+    <state width="1382" height="213" key="GridCell.Tab.0.bottom" timestamp="1593395180136">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.0.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180136" />
+    <state width="1382" height="213" key="GridCell.Tab.0.center" timestamp="1593395180135">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.0.center/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180135" />
+    <state width="1382" height="213" key="GridCell.Tab.0.left" timestamp="1593395180135">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.0.left/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180135" />
+    <state width="1382" height="213" key="GridCell.Tab.0.right" timestamp="1593395180135">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.0.right/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180135" />
+    <state width="1382" height="213" key="GridCell.Tab.1.bottom" timestamp="1593395180136">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.1.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180136" />
+    <state width="1382" height="213" key="GridCell.Tab.1.center" timestamp="1593395180136">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.1.center/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180136" />
+    <state width="1382" height="213" key="GridCell.Tab.1.left" timestamp="1593395180136">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.1.left/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180136" />
+    <state width="1382" height="213" key="GridCell.Tab.1.right" timestamp="1593395180136">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.1.right/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180136" />
+    <state width="1382" height="213" key="GridCell.Tab.2.bottom" timestamp="1593395180140">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.2.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180140" />
+    <state width="1382" height="213" key="GridCell.Tab.2.center" timestamp="1593395180139">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.2.center/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180139" />
+    <state width="1382" height="213" key="GridCell.Tab.2.left" timestamp="1593395180138">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.2.left/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180138" />
+    <state width="1382" height="213" key="GridCell.Tab.2.right" timestamp="1593395180140">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.2.right/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180140" />
+    <state width="1382" height="213" key="GridCell.Tab.3.bottom" timestamp="1593395180141">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.3.bottom/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180141" />
+    <state width="1382" height="213" key="GridCell.Tab.3.center" timestamp="1593395180141">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.3.center/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180141" />
+    <state width="1382" height="213" key="GridCell.Tab.3.left" timestamp="1593395180141">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.3.left/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180141" />
+    <state width="1382" height="213" key="GridCell.Tab.3.right" timestamp="1593395180141">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="1382" height="213" key="GridCell.Tab.3.right/0.0.2048.1280@0.0.2048.1280" timestamp="1593395180141" />
+    <state width="212" height="539" key="HiddenNamespacesPopup" timestamp="1592450644789">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state width="212" height="539" key="HiddenNamespacesPopup/0.0.2048.1280@0.0.2048.1280" timestamp="1592450644789" />
+    <state x="262" y="221" key="SettingsEditor" timestamp="1592468711108">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="262" y="221" key="SettingsEditor/0.0.2048.1280@0.0.2048.1280" timestamp="1592468711108" />
+    <state x="829" y="520" width="389" height="266" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1593170939963">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="829" y="520" width="389" height="266" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.2048.1280@0.0.2048.1280" timestamp="1593170939963" />
+    <state x="177" y="127" width="1862" height="1094" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1592468289982">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="177" y="127" width="1862" height="1094" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1592468289982" />
+    <state x="93" y="93" width="1862" height="1094" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592550645605">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="93" y="93" width="1862" height="1094" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1592550645605" />
+    <state x="755" y="394" key="extract.method.dialog" timestamp="1593155626710">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="755" y="394" key="extract.method.dialog/0.0.2048.1280@0.0.2048.1280" timestamp="1593155626710" />
+    <state x="698" y="223" width="652" height="834" key="find.popup" timestamp="1593171780137">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="698" y="223" width="652" height="834" key="find.popup/0.0.2048.1280@0.0.2048.1280" timestamp="1593171780137" />
+    <state x="434" y="171" key="new project wizard" timestamp="1592469164816">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="434" y="171" key="new project wizard/0.0.2048.1280@0.0.2048.1280" timestamp="1592469164816" />
+    <state x="729" y="263" key="refactoring.ChangeSignatureDialog" timestamp="1592967260900">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="729" y="263" key="refactoring.ChangeSignatureDialog/0.0.2048.1280@0.0.2048.1280" timestamp="1592967260900" />
+    <state x="681" y="301" key="run.anything.popup" timestamp="1593239836968">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="681" y="301" key="run.anything.popup/0.0.2048.1280@0.0.2048.1280" timestamp="1593239836968" />
+    <state x="1035" y="386" width="672" height="678" key="search.everywhere.popup" timestamp="1593241652705">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="1035" y="386" width="672" height="678" key="search.everywhere.popup/0.0.2048.1280@0.0.2048.1280" timestamp="1593241652705" />
+  </component>
+</project>

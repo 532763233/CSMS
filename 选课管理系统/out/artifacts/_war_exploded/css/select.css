@@ -1,0 +1,54 @@
+.select {
+    display: inline-block;
+    width: 110px;
+    height: 30px;
+    position: relative;
+    vertical-align: middle;
+    text-indent: 28px;
+    margin: 10px;
+    overflow: hidden;
+    background-color: #fff;
+    color: #555;
+    border: 1px solid #aaa;
+    text-shadow: none;
+    border-radius: 8px;
+    transition: box-shadow 0.25s ease;
+    z-index: 2;
+    cursor: pointer;
+}
+
+.select:hover {
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+}
+
+.select:before {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 0;
+    border: 10px solid transparent;
+    border-top-color: #ccc;
+    top: 16px;
+    right: 10px;
+    cursor: pointer;
+    z-index: -2;
+}
+.select select {
+    cursor: pointer;
+    padding: 10px;
+    padding-top: 13px;
+    padding-left: 15px;
+    width: 100%;
+    border: none;
+    background: transparent;
+    background-image: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: "Microsoft soft";
+}
+
+select:focus,select:active,select:hover {
+    outline: none;
+}
